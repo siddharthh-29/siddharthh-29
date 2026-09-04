@@ -122,83 +122,72 @@
 
 <table>
 <tr>
-<td width="50%">
+<td align="center" width="50%">
 
-<h3>⚙️ <a href="https://github.com/siddharthh-29/FORGE">FORGE</a></h3>
+<a href="https://github.com/siddharthh-29/FORGE">
+<img src="https://opengraph.githubassets.com/1/siddharthh-29/FORGE" width="95%">
+</a>
 
-A CI/CD platform focused on automating software development and delivery workflows.
-
-<br>
-
-<b>Focus:</b> Developer Tools • CI/CD • Automation
+<h3><a href="https://github.com/siddharthh-29/FORGE">FORGE</a></h3>
 
 </td>
 
-<td width="50%">
+<td align="center" width="50%">
 
-<h3>🧠 <a href="https://github.com/i-m-kartik-01/TextToCourseScalable-Final">Text-to-Course</a></h3>
+<a href="https://github.com/i-m-kartik-01/TextToCourseScalable-Final">
+<img src="https://opengraph.githubassets.com/1/i-m-kartik-01/TextToCourseScalable-Final" width="95%">
+</a>
 
-An AI-powered learning platform that transforms a topic into a structured and comprehensive course.
-
-<br>
-
-<b>Focus:</b> AI/ML • LLMs • Education
+<h3><a href="https://github.com/i-m-kartik-01/TextToCourseScalable-Final">Text-to-Course</a></h3>
 
 </td>
 </tr>
 
 <tr>
-<td width="50%">
+<td align="center" width="50%">
 
-<h3>🔔 <a href="https://github.com/siddharthh-29/Aurora---Notification-Orchestrator">Aurora</a></h3>
+<a href="https://github.com/siddharthh-29/Aurora---Notification-Orchestrator">
+<img src="https://opengraph.githubassets.com/1/siddharthh-29/Aurora---Notification-Orchestrator" width="95%">
+</a>
 
-A notification orchestration system designed to manage and coordinate reliable notification delivery.
-
-<br>
-
-<b>Focus:</b> Backend • APIs • Distributed Systems
+<h3><a href="https://github.com/siddharthh-29/Aurora---Notification-Orchestrator">Aurora</a></h3>
 
 </td>
 
-<td width="50%">
+<td align="center" width="50%">
 
-<h3>💾 <a href="https://github.com/siddharthh-29/In-Memory-VFS">In-Memory-VFS</a></h3>
+<a href="https://github.com/siddharthh-29/In-Memory-VFS">
+<img src="https://opengraph.githubassets.com/1/siddharthh-29/In-Memory-VFS" width="95%">
+</a>
 
-A C++ virtual file system exploring file management, data structures, and operating-system concepts.
-
-<br>
-
-<b>Focus:</b> C++ • Systems • Data Structures
+<h3><a href="https://github.com/siddharthh-29/In-Memory-VFS">In-Memory-VFS</a></h3>
 
 </td>
 </tr>
 
 <tr>
-<td width="50%">
+<td align="center" width="50%">
 
-<h3>🕸️ <a href="https://github.com/Rohith-0605/SpatialMesh-AX2026">Spatial Mesh</a></h3>
+<a href="https://github.com/Rohith-0605/SpatialMesh-AX2026">
+<img src="https://opengraph.githubassets.com/1/Rohith-0605/SpatialMesh-AX2026" width="95%">
+</a>
 
-A project exploring spatial data structures and computational geometry.
-
-<br>
-
-<b>Focus:</b> Algorithms • Spatial Computing
+<h3><a href="https://github.com/Rohith-0605/SpatialMesh-AX2026">Spatial Mesh</a></h3>
 
 </td>
 
-<td width="50%">
+<td align="center" width="50%">
 
-<h3>🇮🇳 <a href="https://github.com/siddharthh-29/SmartIndiaHackathon">Smart India Hackathon</a></h3>
+<a href="https://github.com/siddharthh-29/SmartIndiaHackathon">
+<img src="https://opengraph.githubassets.com/1/siddharthh-29/SmartIndiaHackathon" width="95%">
+</a>
 
-A project developed as part of the Smart India Hackathon.
-
-<br>
-
-<b>Focus:</b> Software Engineering • Problem Solving
+<h3><a href="https://github.com/siddharthh-29/SmartIndiaHackathon">Smart India Hackathon</a></h3>
 
 </td>
 </tr>
 </table>
+
 
 ---
 
