@@ -1,256 +1,171 @@
-# Hey, I'm Siddharth Sivapuram 👋
+# Hey there! 👋 I'm Siddharth Sivapuram
 
-### Electronics & Communication Engineering @ IIT Guwahati | Software Engineering | AI/ML | Systems Engineering
+\<h3 align="center">ECE Undergraduate at IIT Guwahati | Aspiring Software Engineer | AI/ML Enthusiast\</h3>
 
-I'm an ECE undergraduate at **IIT Guwahati**, interested in building software systems that combine strong engineering fundamentals with intelligent algorithms.
-
-My interests include **Software Engineering, Artificial Intelligence, Machine Learning, Backend Development, and Systems Engineering**. I enjoy understanding problems from the ground up, experimenting with algorithms, and building practical end-to-end solutions.
-
-- 🎓 Electronics and Communication Engineering — IIT Guwahati
-- 💻 Interested in Software Engineering, AI/ML, and systems-oriented development
-- 🧠 Exploring machine learning, graph neural networks, probabilistic models, and algorithms
-- ⚙️ Interested in concurrency, performance optimization, and scalable software
-- 🚀 Building projects that connect theoretical concepts with practical applications
+\<p align="center">
+&#x20; \<img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Exploring+Software+Engineering;Building+with+AI+%26+Machine+Learning;Learning+Data+Structures+%26+Algorithms;Interested+in+Backend+%26+Systems](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=500\&size=22\&pause=1000\&color=58A6FF\&center=true\&vCenter=true\&width=650\&lines=Exploring+Software+Engineering;Building+with+AI+%26+Machine+Learning;Learning+Data+Structures+%26+Algorithms;Interested+in+Backend+%26+Systems)" alt="Typing SVG" />
+\</p>
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 About Me
 
-My main projects explore three different engineering areas: low-level systems, applied AI/ML, and real-time intelligent applications.
-
-## 01. In-Memory Virtual File System
-
-**Systems Engineering · C++17 · Concurrency · Data Structures**
-
-[View Repository](https://github.com/siddharthh-29/In-Memory-VFS)
-
-A virtual file system designed from scratch in C++17 to provide lightweight hierarchical data management with thread safety and persistence.
-
-### Problem
-
-Applications such as database storage engines, in-memory caches, and sandboxed execution environments need efficient hierarchical data management.
-
-Building such a system introduces several challenges:
-
-- Concurrent reads and writes can cause race conditions.
-- In-memory data is volatile and needs a persistence mechanism.
-- Deeply nested directory structures require careful memory and resource management.
-
-### Engineering Approach
-
-- **Composite Design Pattern:** Represent files and directories through a common hierarchical structure.
-- **N-ary Tree:** Organize directories and files into a tree-based structure.
-- **Reader–Writer Synchronization:** Use `std::shared_mutex` to support concurrent readers while protecting modifications.
-- **Binary Serialization:** Flatten the in-memory tree into a custom binary representation for persistence.
-- **State Reconstruction:** Rebuild the virtual file system from serialized data after restart.
-
-### Engineering Goals
-
-- Thread-safe file and directory operations.
-- Efficient hierarchical traversal and manipulation.
-- Persistent state without relying on an external database.
-- Target throughput of 100,000+ operations per second under concurrent workloads.
-- Sub-millisecond operation latency as a performance objective.
-
-**Tech:** C++17 · Object-Oriented Programming · Data Structures · N-ary Trees · `std::shared_mutex` · Binary Serialization · Concurrency
+- 🎓 Electronics and Communication Engineering undergraduate at **IIT Guwahati**.
+- 💻 Interested in **Software Engineering, Backend Development, and AI/ML**.
+- 🧠 Enjoy solving problems and exploring Data Structures and Algorithms.
+- 🤖 Interested in building intelligent applications using modern AI/ML tools.
+- ⚙️ Exploring systems, databases, and efficient software design.
+- 🌱 Always learning, building, and improving.
 
 ---
 
-## 02. Intelligent GNSS Map Matching — Smart India Hackathon
+## 🌐 Connect With Me
 
-**Applied AI/ML · Geospatial Intelligence · Hidden Markov Models**
-
-### Problem
-
-Coarse GNSS data can make it difficult to distinguish between vehicles travelling on nearby roads, particularly:
-
-- Highways and service roads.
-- Flyovers and roads underneath them.
-- Parallel or closely spaced road segments.
-
-GNSS measurements can also contain noise, outliers, and intermittent positioning errors.
-
-The objective was to develop an intelligent map-matching solution that identifies the road type travelled by a vehicle and supports applications such as automated tolling and driving-pattern analysis.
-
-### Solution Architecture
-
-**1. GNSS Data Preprocessing**
-
-- Process coarse GNSS observations and vehicle-related features.
-- Apply Kalman filtering for position estimation.
-- Use Z-score-based outlier detection to identify anomalous measurements.
-- Work with features such as latitude, longitude, speed, and height.
-
-**2. Map Matching**
-
-- Integrate the OSRM API to map-match GNSS trajectories to road networks.
-- Snap observed coordinates to road segments.
-- Use road information to distinguish highways, service roads, and unknown road types.
-
-**3. Switching Hidden Markov Model**
-
-Developed a Switching Hidden Markov Model-based approach to classify the hidden road state from observed vehicle data.
-
-Two configurations were explored:
-
-| Configuration | Features |
-|---|---|
-| Simple model | Latitude, longitude, speed |
-| Complex model | Latitude, longitude, speed, acceleration, height |
-
-The model predicts hidden road categories:
-
-- Highway
-- Service road
-- Flyover
-
-**4. Journey Analytics**
-
-- Estimate distance travelled across different road categories.
-- Calculate time spent on each road type.
-- Generate trajectory-based journey statistics.
-
-**5. Web Application**
-
-Built a web interface using Flask, HTML, CSS, and JavaScript.
-
-Features include:
-
-- Uploading `.pos` and `.kml` trajectory files.
-- Visualizing vehicle trajectories using OpenStreetMap.
-- Displaying road-category statistics.
-- GNSS-based toll calculation.
-
-### Applications
-
-- GNSS-based automated tolling.
-- Insurance driving-pattern analysis.
-- Road-level vehicle tracking and analytics.
-
-**Tech:** Python · Flask · Hidden Markov Models · Switching HMM · Kalman Filtering · Z-score Outlier Detection · OSRM · OpenStreetMap · HTML · CSS · JavaScript
+\<p align="left">
+&#x20; \<a href="[https://www.linkedin.com/in/siddharthsivapuram/](https://www.linkedin.com/in/siddharthsivapuram/)">
+&#x20;   \<img src="[https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)" alt="LinkedIn" />
+&#x20; \</a>
+&#x20; \<a href="mailto\:hustlesiddharth29\@gmail.com">
+&#x20;   \<img src="[https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)" alt="Gmail" />
+&#x20; \</a>
+&#x20; \<a href="[https://github.com/siddharthh-29](https://github.com/siddharthh-29)">
+&#x20;   \<img src="[https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)" alt="GitHub" />
+&#x20; \</a>
+&#x20; \<a href="[https://leetcode.com/u/foolaloof/](https://leetcode.com/u/foolaloof/)">
+&#x20;   \<img src="[https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge\&logo=leetcode\&logoColor=black)" alt="LeetCode" />
+&#x20; \</a>
+\</p>
 
 ---
 
-## 03. SpatialMesh — Immersive 3D Spatial Audio
+## 💻 Tech Stack
 
-**Samsung EnnovateX AX Hackathon 2026 · Problem Statement 8**
+### Programming Languages
 
-**AI/ML · Graph Neural Networks · Audio Processing · Real-Time Systems**
+\<p>
+&#x20; \<img src="[https://skillicons.dev/icons?i=cpp,python,js](https://skillicons.dev/icons?i=cpp,python,js)" />
+\</p>
 
-[View Repository](https://github.com/siddharthh-29/SpatialMesh-AX2026) · [Watch Demo](https://youtu.be/VT_2EgvCe5k) · [Installation Guide](https://youtu.be/PEdSFaae3fc) · [Presentation](https://drive.google.com/file/d/1mayaPPAfyEff-Vt1P6nm2eUfwn0psPMj/view?usp=sharing)
+### Web Development & Backend
 
-**Team SpatialMesh — IIT Guwahati**
+\<p>
+&#x20; \<img src="[https://skillicons.dev/icons?i=html,css,fastapi](https://skillicons.dev/icons?i=html,css,fastapi)" />
+\</p>
 
-Team members: Rohith Sai Anvesh Polisetty and Siddharth Sivapuram.
+### AI / Machine Learning
 
-### Problem
+\<p>
+&#x20; \<img src="[https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge\&logo=huggingface\&logoColor=black)" />
+&#x20; \<img src="[https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge\&logo=chainlink\&logoColor=white)" />
+&#x20; \<img src="[https://img.shields.io/badge/FAISS-00599C?style=for-the-badge](https://img.shields.io/badge/FAISS-00599C?style=for-the-badge)" />
+&#x20; \<img src="[https://img.shields.io/badge/Pinecone-000000?style=for-the-badge](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge)" />
+\</p>
 
-Traditional multi-party voice calls do not provide meaningful spatial separation between participants. Multiple speakers can sound as though their voices originate from the same direction.
+### Databases & Tools
 
-SpatialMesh aims to create a more natural conversation experience by positioning each participant at a distinct location in a virtual 3D soundscape.
+\<p>
+&#x20; \<img src="[https://skillicons.dev/icons?i=mysql,sqlite,git,github,vscode,linux](https://skillicons.dev/icons?i=mysql,sqlite,git,github,vscode,linux)" />
+\</p>
 
-The system uses AI to predict speaker positions and HRTF-based binaural rendering to reproduce spatial audio through headphones.
+### Core Computer Science
 
-### System Architecture
+- Data Structures and Algorithms
+- Object-Oriented Programming
+- Operating Systems Fundamentals
+- Database Fundamentals
+- Memory Management and File Systems
 
-```text
-       Raw Mono Audio
-       (4 Participants)
-              |
-              v
-    HRTF Pre-Convolution
-       (SONICOM Dataset)
-              |
-              v
-      CNN Audio Encoder
-     (4-layer 1D CNN)
-       128-d Embedding
-              |
-              v
-       Spatial Graph
-    133-d Nodes / 7-d Edges
-              |
-              v
-       GATv2Conv GNN
-       2 Layers / 4 Heads
-              |
-              v
-    Azimuth + Elevation
-       Per Participant
-              |
-              v
-     HRTF Binaural Rendering
-              |
-              v
-       Stereo Audio
-          Headphones
-```
+---
 
-### 1. HRTF-Based Spatial Audio Processing
+## 📌 Featured Projects
 
-Used Head-Related Transfer Functions (HRTFs) to model how sound changes when it travels from a particular spatial position to the listener's ears.
+\<table>
+&#x20; \<tr>
+&#x20;   \<td width="50%">
+&#x20;     \<h3 align="center">Convolve\</h3>
+&#x20;     \<p align="center">
+&#x20;       \<a href="[https://github.com/siddharthh-29/Convolve](https://github.com/siddharthh-29/Convolve)">
+&#x20;         \<img src="[https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge\&logo=github)" />
+&#x20;       \</a>
+&#x20;     \</p>
+&#x20;   \</td>
+&#x20;   \<td width="50%">
+&#x20;     \<h3 align="center">In-Memory VFS\</h3>
+&#x20;     \<p align="center">
+&#x20;       \<a href="[https://github.com/siddharthh-29/In-Memory-VFS](https://github.com/siddharthh-29/In-Memory-VFS)">
+&#x20;         \<img src="[https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge\&logo=github)" />
+&#x20;       \</a>
+&#x20;     \</p>
+&#x20;   \</td>
+&#x20; \</tr>
+&#x20; \<tr>
+&#x20;   \<td width="50%">
+&#x20;     \<h3 align="center">Smart India Hackathon\</h3>
+&#x20;     \<p align="center">
+&#x20;       \<a href="[https://github.com/siddharthh-29/SmartIndiaHackathon](https://github.com/siddharthh-29/SmartIndiaHackathon)">
+&#x20;         \<img src="[https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge\&logo=github)" />
+&#x20;       \</a>
+&#x20;     \</p>
+&#x20;   \</td>
+&#x20;   \<td width="50%">
+&#x20;     \<h3 align="center">Fintech ETL Sprint\</h3>
+&#x20;     \<p align="center">
+&#x20;       \<a href="[https://github.com/siddharthh-29/fintech-etl-sprint](https://github.com/siddharthh-29/fintech-etl-sprint)">
+&#x20;         \<img src="[https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge\&logo=github)" />
+&#x20;       \</a>
+&#x20;     \</p>
+&#x20;   \</td>
+&#x20; \</tr>
+&#x20; \<tr>
+&#x20;   \<td width="50%">
+&#x20;     \<h3 align="center">ZIPP\</h3>
+&#x20;     \<p align="center">
+&#x20;       \<a href="[https://github.com/siddharthh-29/ZIPP](https://github.com/siddharthh-29/ZIPP)">
+&#x20;         \<img src="[https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge\&logo=github)" />
+&#x20;       \</a>
+&#x20;     \</p>
+&#x20;   \</td>
+&#x20;   \<td width="50%">
+&#x20;     \<h3 align="center">Mutual Fund Project\</h3>
+&#x20;     \<p align="center">
+&#x20;       \<a href="[https://github.com/siddharthh-29/mutual_fund_project](https://github.com/siddharthh-29/mutual_fund_project)">
+&#x20;         \<img src="[https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge\&logo=github)" />
+&#x20;       \</a>
+&#x20;     \</p>
+&#x20;   \</td>
+&#x20; \</tr>
+\</table>
 
-The binaural rendering process applies separate filters for the left and right ears:
+---
 
-\[
-y_L(t)=x(t)*h_L(t,\theta,\phi)
-\]
+## 📊 GitHub Statistics
 
-\[
-y_R(t)=x(t)*h_R(t,\theta,\phi)
-\]
+\<p align="center">   \<img height="180em" src="[https://github-readme-stats.vercel.app/api?username=siddharthh-29&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true](https://github-readme-stats.vercel.app/api?username=siddharthh-29\&show_icons=true\&theme=tokyonight\&hide_border=true\&include_all_commits=true)" alt="Siddharth's GitHub Stats" />   \<img height="180em" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=siddharthh-29&layout=compact&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=siddharthh-29\&layout=compact\&theme=tokyonight\&hide_border=true)" alt="Top Languages" /> \</p>
 
-Where:
+---
 
-- \(x(t)\) is the input audio.
-- \(h_L\) and \(h_R\) are the left and right HRTF filters.
-- \(\theta\) and \(\phi\) represent azimuth and elevation.
+## 🔥 GitHub Streak
 
-Used the SONICOM HRTF dataset for spatial acoustic processing.
+\<p align="center">   \<img src="[https://streak-stats.demolab.com?user=siddharthh-29&theme=tokyonight&hide_border=true](https://streak-stats.demolab.com?user=siddharthh-29\&theme=tokyonight\&hide_border=true)" alt="GitHub Streak" /> \</p>
 
-### 2. CNN Audio Encoder
+---
 
-Implemented a four-layer 1D CNN to extract audio representations.
+## 🏆 GitHub Trophies
 
-- Generates a 128-dimensional learned embedding for each speaker.
-- Encodes useful audio characteristics for subsequent spatial reasoning.
-- Integrates with the graph-based speaker representation.
+\<p align="center">   \<img src="[https://github-profile-trophy.vercel.app/?username=siddharthh-29&theme=tokyonight&no-frame=true&row=1&column=6](https://github-profile-trophy.vercel.app/?username=siddharthh-29\&theme=tokyonight\&no-frame=true\&row=1\&column=6)" alt="GitHub Trophies" /> \</p>
 
-### 3. Graph-Based Speaker Representation
+---
 
-Modelled the entire multi-party conversation as a spatial graph.
+## 📈 Contribution Graph
 
-- Each speaker is represented as a graph node.
-- Each node contains 133 features.
-- Each directed edge contains seven acoustic relationship features.
-- The graph enables joint reasoning about the spatial arrangement of participants.
+\<p align="center">   \<img src="[https://github-readme-activity-graph.vercel.app/graph?username=siddharthh-29&theme=tokyo-night&hide_border=true](https://github-readme-activity-graph.vercel.app/graph?username=siddharthh-29\&theme=tokyo-night\&hide_border=true)" alt="Contribution Graph" /> \</p>
 
-### 4. GATv2 Graph Neural Network
+---
 
-Used `GATv2Conv` from PyTorch Geometric to reason over the speaker graph.
+\<p align="center">
+&#x20; \<b>Building. Learning. Improving. One commit at a time. 🚀\</b>
+\</p>
 
-- Two graph attention layers.
-- Four attention heads.
-- Uses directed edge features.
-- Predicts azimuth and elevation coordinates for each speaker.
-
-An important implementation finding was that the initial GATConv approach did not make use of the edge features as intended. The architecture was changed to GATv2Conv to incorporate edge information.
-
-### 5. Binaural Audio Rendering
-
-The predicted spatial coordinates are used to select the corresponding HRTF characteristics.
-
-The system then performs HRTF convolution to generate binaural output, creating the perception of speakers positioned at different locations around the listener.
-
-### 6. Spatial Context Agent
-
-Implemented a rule-based monitor–reason–act loop that monitors the call context and triggers spatial adjustments.
-
-The four documented tool calls are:
-
-| Tool | Function |
-|---|---|
-| `trigger_gnn_reassign()` | Reassigns speaker positions on mute/unmute events |
-| `boost_ild_separation()` | Widens azimuth separation during noise spikes |
-| `update_world_lock()` | Updates the soundfield when head yaw exceeds 35° |
-| `set_speaker_priority
+\<p align="center">
+&#x20; ⭐ If you find my work interesting, feel free to explore my repositories!
+\</p>
