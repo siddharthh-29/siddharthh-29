@@ -1,171 +1,111 @@
-# Hey there! 👋 I'm Siddharth Sivapuram
+# Hey there! I'm Siddharth Sivapuram 👋
 
-\<h3 align="center">ECE Undergraduate at IIT Guwahati | Aspiring Software Engineer | AI/ML Enthusiast\</h3>
+\<h3 align="center">ECE Undergraduate | Aspiring Software Engineer | AI/ML Enthusiast\</h3>
 
-\<p align="center">
-&#x20; \<img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Exploring+Software+Engineering;Building+with+AI+%26+Machine+Learning;Learning+Data+Structures+%26+Algorithms;Interested+in+Backend+%26+Systems](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=500\&size=22\&pause=1000\&color=58A6FF\&center=true\&vCenter=true\&width=650\&lines=Exploring+Software+Engineering;Building+with+AI+%26+Machine+Learning;Learning+Data+Structures+%26+Algorithms;Interested+in+Backend+%26+Systems)" alt="Typing SVG" />
-\</p>
+\<p align="center">   \<img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Electronics+%26+Communication+Engineering;Aspiring+Software+Engineer;Exploring+Artificial+Intelligence+%26+ML;Building+Projects+%7C+Solving+Problems;Always+Learning+Something+New](https://readme-typing-svg.demolab.com?font=Fira+Code\&size=21\&pause=1000\&color=36BCF7\&center=true\&vCenter=true\&width=700\&lines=Electronics+%26+Communication+Engineering;Aspiring+Software+Engineer;Exploring+Artificial+Intelligence+%26+ML;Building+Projects+%7C+Solving+Problems;Always+Learning+Something+New)!" alt="Typing SVG" /> \</p>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-- 🎓 Electronics and Communication Engineering undergraduate at **IIT Guwahati**.
-- 💻 Interested in **Software Engineering, Backend Development, and AI/ML**.
-- 🧠 Enjoy solving problems and exploring Data Structures and Algorithms.
-- 🤖 Interested in building intelligent applications using modern AI/ML tools.
-- ⚙️ Exploring systems, databases, and efficient software design.
-- 🌱 Always learning, building, and improving.
+- 🎓 Electronics and Communication Engineering undergraduate at **Indian Institute of Technology Guwahati (IITG)**.
+- 💻 Passionate about Software Engineering and building practical software applications.
+- 🤖 Interested in Artificial Intelligence, Machine Learning, and intelligent systems.
+- 🧠 Enjoy solving challenging problems using Data Structures and Algorithms.
+- ⚙️ Exploring backend development, system design, and efficient software engineering.
+- 🚀 Interested in applying programming and engineering concepts to solve real-world problems.
+- 🌱 Continuously learning and building projects across software development and AI/ML.
 
 ---
 
-## 🌐 Connect With Me
+## 🏆 Competitive Programming
+
+\<p align="left">   \<a href="[https://leetcode.com/u/foolaloof/](https://leetcode.com/u/foolaloof/)">     \<img src="[https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge\&logo=leetcode\&logoColor=black)" alt="LeetCode" />   \</a> \</p>
+
+---
+
+## 🤝 Connect With Me
 
 \<p align="left">
-&#x20; \<a href="[https://www.linkedin.com/in/siddharthsivapuram/](https://www.linkedin.com/in/siddharthsivapuram/)">
+&#x20; \<a href="[https://www.linkedin.com/in/priyansh-agarwal/](https://www.linkedin.com/in/priyansh-agarwal/)">
 &#x20;   \<img src="[https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)" alt="LinkedIn" />
 &#x20; \</a>
 &#x20; \<a href="mailto\:hustlesiddharth29\@gmail.com">
-&#x20;   \<img src="[https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)" alt="Gmail" />
+&#x20;   \<img src="[https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)" alt="Email" />
 &#x20; \</a>
 &#x20; \<a href="[https://github.com/siddharthh-29](https://github.com/siddharthh-29)">
-&#x20;   \<img src="[https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)" alt="GitHub" />
-&#x20; \</a>
-&#x20; \<a href="[https://leetcode.com/u/foolaloof/](https://leetcode.com/u/foolaloof/)">
-&#x20;   \<img src="[https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge\&logo=leetcode\&logoColor=black)" alt="LeetCode" />
+&#x20;   \<img src="[https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/GitHub-100000?style=for-the-badge\&logo=github\&logoColor=white)" alt="GitHub" />
 &#x20; \</a>
 \</p>
 
 ---
 
-## 💻 Tech Stack
+## 🛠️ Technical Skills & Technologies
 
-### Programming Languages
-
-\<p>
-&#x20; \<img src="[https://skillicons.dev/icons?i=cpp,python,js](https://skillicons.dev/icons?i=cpp,python,js)" />
-\</p>
-
-### Web Development & Backend
+### 💻 Programming Languages
 
 \<p>
-&#x20; \<img src="[https://skillicons.dev/icons?i=html,css,fastapi](https://skillicons.dev/icons?i=html,css,fastapi)" />
+&#x20; \<img src="[https://skillicons.dev/icons?i=cpp,python,js](https://skillicons.dev/icons?i=cpp,python,js)" alt="C++, Python, JavaScript" />
 \</p>
 
-### AI / Machine Learning
+### 🌐 Web & Backend Development
 
 \<p>
-&#x20; \<img src="[https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge\&logo=huggingface\&logoColor=black)" />
-&#x20; \<img src="[https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge\&logo=chainlink\&logoColor=white)" />
-&#x20; \<img src="[https://img.shields.io/badge/FAISS-00599C?style=for-the-badge](https://img.shields.io/badge/FAISS-00599C?style=for-the-badge)" />
-&#x20; \<img src="[https://img.shields.io/badge/Pinecone-000000?style=for-the-badge](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge)" />
+&#x20; \<img src="[https://skillicons.dev/icons?i=html,css,fastapi](https://skillicons.dev/icons?i=html,css,fastapi)" alt="HTML, CSS, FastAPI" />
 \</p>
 
-### Databases & Tools
+### 🤖 AI / Machine Learning
+
+\<p>   \<img src="[https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge\&logo=huggingface\&logoColor=black)" alt="Hugging Face" />   \<img src="[https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge\&logo=langchain\&logoColor=white)" alt="LangChain" />   \<img src="[https://img.shields.io/badge/FAISS-00599C?style=for-the-badge](https://img.shields.io/badge/FAISS-00599C?style=for-the-badge)" alt="FAISS" />   \<img src="[https://img.shields.io/badge/Pinecone-000000?style=for-the-badge](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge)" alt="Pinecone" /> \</p>
+
+### 🗄️ Databases & Development Tools
 
 \<p>
-&#x20; \<img src="[https://skillicons.dev/icons?i=mysql,sqlite,git,github,vscode,linux](https://skillicons.dev/icons?i=mysql,sqlite,git,github,vscode,linux)" />
+&#x20; \<img src="[https://skillicons.dev/icons?i=git,github,mysql,sqlite,jupyter](https://skillicons.dev/icons?i=git,github,mysql,sqlite,jupyter)" alt="Git, GitHub, MySQL, SQLite, Jupyter" />
+&#x20; \<img src="[https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge\&logo=googlecolab\&logoColor=black)" alt="Google Colab" />
 \</p>
 
-### Core Computer Science
+### ⚙️ Core Computer Science
 
 - Data Structures and Algorithms
 - Object-Oriented Programming
 - Operating Systems Fundamentals
-- Database Fundamentals
 - Memory Management and File Systems
+- Database Fundamentals
 
 ---
 
-## 📌 Featured Projects
+## 🚀 My Projects
 
-\<table>
-&#x20; \<tr>
-&#x20;   \<td width="50%">
-&#x20;     \<h3 align="center">Convolve\</h3>
-&#x20;     \<p align="center">
-&#x20;       \<a href="[https://github.com/siddharthh-29/Convolve](https://github.com/siddharthh-29/Convolve)">
-&#x20;         \<img src="[https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge\&logo=github)" />
-&#x20;       \</a>
-&#x20;     \</p>
-&#x20;   \</td>
-&#x20;   \<td width="50%">
-&#x20;     \<h3 align="center">In-Memory VFS\</h3>
-&#x20;     \<p align="center">
-&#x20;       \<a href="[https://github.com/siddharthh-29/In-Memory-VFS](https://github.com/siddharthh-29/In-Memory-VFS)">
-&#x20;         \<img src="[https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge\&logo=github)" />
-&#x20;       \</a>
-&#x20;     \</p>
-&#x20;   \</td>
-&#x20; \</tr>
-&#x20; \<tr>
-&#x20;   \<td width="50%">
-&#x20;     \<h3 align="center">Smart India Hackathon\</h3>
-&#x20;     \<p align="center">
-&#x20;       \<a href="[https://github.com/siddharthh-29/SmartIndiaHackathon](https://github.com/siddharthh-29/SmartIndiaHackathon)">
-&#x20;         \<img src="[https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge\&logo=github)" />
-&#x20;       \</a>
-&#x20;     \</p>
-&#x20;   \</td>
-&#x20;   \<td width="50%">
-&#x20;     \<h3 align="center">Fintech ETL Sprint\</h3>
-&#x20;     \<p align="center">
-&#x20;       \<a href="[https://github.com/siddharthh-29/fintech-etl-sprint](https://github.com/siddharthh-29/fintech-etl-sprint)">
-&#x20;         \<img src="[https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge\&logo=github)" />
-&#x20;       \</a>
-&#x20;     \</p>
-&#x20;   \</td>
-&#x20; \</tr>
-&#x20; \<tr>
-&#x20;   \<td width="50%">
-&#x20;     \<h3 align="center">ZIPP\</h3>
-&#x20;     \<p align="center">
-&#x20;       \<a href="[https://github.com/siddharthh-29/ZIPP](https://github.com/siddharthh-29/ZIPP)">
-&#x20;         \<img src="[https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge\&logo=github)" />
-&#x20;       \</a>
-&#x20;     \</p>
-&#x20;   \</td>
-&#x20;   \<td width="50%">
-&#x20;     \<h3 align="center">Mutual Fund Project\</h3>
-&#x20;     \<p align="center">
-&#x20;       \<a href="[https://github.com/siddharthh-29/mutual_fund_project](https://github.com/siddharthh-29/mutual_fund_project)">
-&#x20;         \<img src="[https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge\&logo=github)" />
-&#x20;       \</a>
-&#x20;     \</p>
-&#x20;   \</td>
-&#x20; \</tr>
-\</table>
+\<table>   \<tr>     \<td width="50%" align="center">       \<h3>Convolve\</h3>       \<a href="[https://github.com/siddharthh-29/Convolve](https://github.com/siddharthh-29/Convolve)">         \<img src="[https://img.shields.io/badge/Explore-Repository-blue?style=for-the-badge&logo=github](https://img.shields.io/badge/Explore-Repository-blue?style=for-the-badge\&logo=github)" alt="Convolve repository" />       \</a>     \</td>     \<td width="50%" align="center">       \<h3>In-Memory VFS\</h3>       \<a href="[https://github.com/siddharthh-29/In-Memory-VFS](https://github.com/siddharthh-29/In-Memory-VFS)">         \<img src="[https://img.shields.io/badge/Explore-Repository-blue?style=for-the-badge&logo=github](https://img.shields.io/badge/Explore-Repository-blue?style=for-the-badge\&logo=github)" alt="In-Memory VFS repository" />       \</a>     \</td>   \</tr>   \<tr>     \<td width="50%" align="center">       \<h3>Smart India Hackathon\</h3>       \<a href="[https://github.com/siddharthh-29/SmartIndiaHackathon](https://github.com/siddharthh-29/SmartIndiaHackathon)">         \<img src="[https://img.shields.io/badge/Explore-Repository-blue?style=for-the-badge&logo=github](https://img.shields.io/badge/Explore-Repository-blue?style=for-the-badge\&logo=github)" alt="Smart India Hackathon repository" />       \</a>     \</td>     \<td width="50%" align="center">       \<h3>Fintech ETL Sprint\</h3>       \<a href="[https://github.com/siddharthh-29/fintech-etl-sprint](https://github.com/siddharthh-29/fintech-etl-sprint)">         \<img src="[https://img.shields.io/badge/Explore-Repository-blue?style=for-the-badge&logo=github](https://img.shields.io/badge/Explore-Repository-blue?style=for-the-badge\&logo=github)" alt="Fintech ETL repository" />       \</a>     \</td>   \</tr>   \<tr>     \<td width="50%" align="center">       \<h3>ZIPP\</h3>       \<a href="[https://github.com/siddharthh-29/ZIPP](https://github.com/siddharthh-29/ZIPP)">         \<img src="[https://img.shields.io/badge/Explore-Repository-blue?style=for-the-badge&logo=github](https://img.shields.io/badge/Explore-Repository-blue?style=for-the-badge\&logo=github)" alt="ZIPP repository" />       \</a>     \</td>     \<td width="50%" align="center">       \<h3>Mutual Fund Project\</h3>       \<a href="[https://github.com/siddharthh-29/mutual_fund_project](https://github.com/siddharthh-29/mutual_fund_project)">         \<img src="[https://img.shields.io/badge/Explore-Repository-blue?style=for-the-badge&logo=github](https://img.shields.io/badge/Explore-Repository-blue?style=for-the-badge\&logo=github)" alt="Mutual Fund repository" />       \</a>     \</td>   \</tr> \</table>
 
 ---
 
 ## 📊 GitHub Statistics
 
-\<p align="center">   \<img height="180em" src="[https://github-readme-stats.vercel.app/api?username=siddharthh-29&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true](https://github-readme-stats.vercel.app/api?username=siddharthh-29\&show_icons=true\&theme=tokyonight\&hide_border=true\&include_all_commits=true)" alt="Siddharth's GitHub Stats" />   \<img height="180em" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=siddharthh-29&layout=compact&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=siddharthh-29\&layout=compact\&theme=tokyonight\&hide_border=true)" alt="Top Languages" /> \</p>
-
----
-
-## 🔥 GitHub Streak
-
-\<p align="center">   \<img src="[https://streak-stats.demolab.com?user=siddharthh-29&theme=tokyonight&hide_border=true](https://streak-stats.demolab.com?user=siddharthh-29\&theme=tokyonight\&hide_border=true)" alt="GitHub Streak" /> \</p>
-
----
-
-## 🏆 GitHub Trophies
-
-\<p align="center">   \<img src="[https://github-profile-trophy.vercel.app/?username=siddharthh-29&theme=tokyonight&no-frame=true&row=1&column=6](https://github-profile-trophy.vercel.app/?username=siddharthh-29\&theme=tokyonight\&no-frame=true\&row=1\&column=6)" alt="GitHub Trophies" /> \</p>
-
----
-
-## 📈 Contribution Graph
-
-\<p align="center">   \<img src="[https://github-readme-activity-graph.vercel.app/graph?username=siddharthh-29&theme=tokyo-night&hide_border=true](https://github-readme-activity-graph.vercel.app/graph?username=siddharthh-29\&theme=tokyo-night\&hide_border=true)" alt="Contribution Graph" /> \</p>
-
----
-
 \<p align="center">
-&#x20; \<b>Building. Learning. Improving. One commit at a time. 🚀\</b>
+&#x20; \<img height="180em" src="[https://github-readme-stats.vercel.app/api?username=siddharthh-29&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true](https://github-readme-stats.vercel.app/api?username=siddharthh-29\&show_icons=true\&theme=tokyonight\&hide_border=true\&include_all_commits=true)" alt="GitHub Statistics" />
+&#x20; \<img height="180em" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=siddharthh-29&layout=compact&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=siddharthh-29\&layout=compact\&theme=tokyonight\&hide_border=true)" alt="Top Languages" />
 \</p>
 
+### 🔥 Contribution Streak
+
 \<p align="center">
-&#x20; ⭐ If you find my work interesting, feel free to explore my repositories!
+&#x20; \<img src="[https://streak-stats.demolab.com?user=siddharthh-29&theme=tokyonight&hide_border=true](https://streak-stats.demolab.com?user=siddharthh-29\&theme=tokyonight\&hide_border=true)" alt="GitHub Contribution Streak" />
 \</p>
+
+### 🏅 GitHub Trophies
+
+\<p align="center">
+&#x20; \<img src="[https://github-profile-trophy.vercel.app/?username=siddharthh-29&theme=tokyonight&no-frame=true&row=1&column=6](https://github-profile-trophy.vercel.app/?username=siddharthh-29\&theme=tokyonight\&no-frame=true\&row=1\&column=6)" alt="GitHub Trophies" />
+\</p>
+
+### 📈 Contribution Activity
+
+\<p align="center">
+&#x20; \<img src="[https://github-readme-activity-graph.vercel.app/graph?username=siddharthh-29&theme=tokyo-night&hide_border=true](https://github-readme-activity-graph.vercel.app/graph?username=siddharthh-29\&theme=tokyo-night\&hide_border=true)" alt="Contribution Activity Graph" />
+\</p>
+
+---
+
+\<p align="center">   \<i>Building. Learning. Improving. One commit at a time. 🚀\</i> \</p>
