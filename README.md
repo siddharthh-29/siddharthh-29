@@ -1,23 +1,22 @@
-
 # Hey there! I'm Siddharth Sivapuram 👋
 
-<h3 align="center">Computer Science Student | Software Engineer | AI/ML Enthusiast</h3>
+<h3 align="center">ECE Undergraduate | Aspiring Software Engineer | AI/ML Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Building+Software+That+Solves+Problems;Exploring+AI%2FML+%26+Intelligent+Systems;Backend+Engineering+%7C+Systems+Programming;Always+Learning+Something+New!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Electronics+%26+Communication+Engineering;Aspiring+Software+Engineer;Exploring+Artificial+Intelligence+%26+ML;Building+Projects+%7C+Solving+Problems;Always+Learning+Something+New!" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🎓 Computer Science student at **Indian Institute of Technology Guwahati (IITG)**.
-- 💻 Interested in Software Engineering, Artificial Intelligence, and Systems Programming.
+- 🎓 Electronics and Communication Engineering undergraduate at **Indian Institute of Technology Guwahati (IITG)**.
+- 💻 Passionate about Software Engineering and building practical software applications.
+- 🤖 Interested in Artificial Intelligence, Machine Learning, and intelligent systems.
 - 🧠 Enjoy solving challenging problems using Data Structures and Algorithms.
-- 🤖 Exploring Machine Learning, LLMs, and intelligent applications.
-- ⚙️ Interested in backend development, system design, and efficient software.
-- 🚀 I enjoy turning ideas into practical engineering projects.
-- 🌱 Always learning, experimenting, and building something new!
+- ⚙️ Exploring backend development, system design, and efficient software engineering.
+- 🚀 Interested in applying programming and engineering concepts to solve real-world problems.
+- 🌱 Continuously learning and building projects across software development and AI/ML.
 
 ---
 
@@ -47,7 +46,7 @@
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ Technical Skills & Technologies
 
 ### 💻 Programming Languages
 
@@ -70,7 +69,7 @@
   <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge" alt="Pinecone" />
 </p>
 
-### 🗄️ Tools & Technologies
+### 🗄️ Databases & Development Tools
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,mysql,sqlite,jupyter" alt="Git, GitHub, MySQL, SQLite, Jupyter" />
@@ -81,9 +80,9 @@
 
 - Data Structures and Algorithms
 - Object-Oriented Programming
-- Operating Systems fundamentals
-- Memory management and file systems
-- Database fundamentals
+- Operating Systems Fundamentals
+- Memory Management and File Systems
+- Database Fundamentals
 
 ---
 
@@ -146,7 +145,7 @@
 ### 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=siddharthh-29&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=siddharthh-29&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
 </p>
 
 ### 🏅 GitHub Trophies
